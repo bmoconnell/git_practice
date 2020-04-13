@@ -1,0 +1,33 @@
+
+
+.card {
+  border: 1px solid black;
+  padding: 2px;
+  margin: 1px
+
+}
+
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 300px;
+  width:432px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center ;
+  width: 70%;
+  background-color: blue;
+  justify-content: space-between;
+}
+
+h3{
+  display: inline;
+  text-decoration: underline;
+}
+
+span{
+  text-decoration:none;
+}
